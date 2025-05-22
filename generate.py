@@ -414,7 +414,7 @@ if __name__ == "__main__":
         'script_name',  # 这个是脚本名称
         '--task', 't2v-1.3B',
         '--size', '832*480',
-        '--ckpt_dir', './Wan2.1-T2V-1.3B',
+        '--ckpt_dir', 'D:\\modelscope_cache\\models\\Wan2.1-T2V-1.3B',
         '--offload_model', 'True',
         '--t5_cpu',
         '--sample_shift', '12',
